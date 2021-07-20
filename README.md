@@ -1,17 +1,16 @@
-# M
+![alt text](./images/top.svg)
 ===
+Me encanta el desarrollo web 🚀, amo los animales 🐶 y me fascina la radio 📻 y un buen café ☕
 
-<!--
-**mxaxaxbx/mxaxaxbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¿En qué estoy?
+✔ Aprendiendo Javascript y TypeScript para la integración de servicios en la nube ⚔.<br/>
+✔ Aprendiendo Python para la ciencia de datos 🧪.<br/>
+✔ Aprendiendo Docker 🐳.<br/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<a href="https://www.linkedin.com/in/miguelarenascol/"><img src="images/in.png" alt="LinkedIn" width="64px"/></a>
+	<a href="https://www.facebook.com/miguel.arenas.528"><img src="images/fb.png" alt="Facebook" width="84px"/></a>
+	<a href="https://twitter.com/MiguelArenasCol"><img src="images/tw.png" alt="Twitter" width="40px"/></a>
+</p>
