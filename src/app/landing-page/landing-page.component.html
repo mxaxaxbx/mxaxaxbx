@@ -1,0 +1,36 @@
+<div class="overlay"></div>
+<div class="root-container">
+  <div class="navbar">
+    <div class="nav-items">
+      <a [routerLink]="['/portfolio']" class="nav-item">Portafolio</a>
+      <a [routerLink]="['/about']" class="nav-item">Mis habilidades</a>
+      <a [routerLink]="['/profiles']" class="nav-item">Mi perfil</a>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- <app-dp-logo class="dp-logo"></app-dp-logo> -->
+    <!-- <h4 class="short-bio">Siempre estoy haciendo un cursito en internet</h4> -->
+
+    <q class="quote">Ayudar a otros es el camino del autoaprendizaje</q>
+    <div class="name">
+      <p>
+        Miguel A. Arenas
+      </p>
+      <div class="strip"></div>
+    </div>
+
+    <span (click)="onExploreMeClick()" (mouseover)="startTadaAnimation = false" [ngClass]="{'tada-animation':startTadaAnimation}">
+      <button class="special-btn">
+        <span>
+          Explorar
+        </span>
+      </button>
+    </span>
+
+    <div class="stick">
+      <div class="stick-design"></div>
+    </div>
+  </div>
+
+</div>

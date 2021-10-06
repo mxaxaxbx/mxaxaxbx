@@ -1,0 +1,26 @@
+<div (click)="onBackClick()" class="back-icon">
+  <app-back-icon></app-back-icon>
+</div>
+<span class="overlay"></span>
+<div class="container">
+  <div class="side1">
+    <h1 class="skill-header">Información</h1>
+    <!-- <app-dp-logo height="13rem" width="13srem" class="dp-logo"></app-dp-logo> -->
+    <div class="text-container">
+      <p>
+        Comencé a programar con PHP en 2016, luego comencé a aprender Python para hacer API Restful con el marco Flask y el desarrollo web. Ahora estoy trabajando con Node.js, Angular, Vuejs, Python Flask y TypeScript.
+      </p>
+    </div>
+  </div>
+  <div class="side2">
+    <div class="skill-container">
+      <h1 class="skill-header">
+        Habilidades
+      </h1>
+      <div *ngFor="let skill of skills">
+        <h4 class="skill-type">{{skill.type}}</h4>
+        <h4 class="skill-names">{{skill.names.join(', ')}}</h4>
+      </div>
+    </div>
+  </div>
+</div>
