@@ -3,7 +3,7 @@
 
 <!-- - 🦞 I’m currently working on [Homarr](https://github.com/ajnart/homarr) -->
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker and Machine learning**
 
 - 👨‍💻 My Linkedin [https://www.linkedin.com/in/miguelarenascol/](https://www.linkedin.com/in/miguelarenascol/)
 
