@@ -1,19 +1,19 @@
-## 👋 Hi, I’m Miguel Arenas
+## Hi, I’m Miguel Arenas
 
 I’m a **software engineer** passionate about building cloud-native systems, AI services, and developer tools.
 I focus on **Go (Golang), Python, and Vue.js** — creating projects that combine clean backend design, scalable cloud architectures, and intuitive user experiences.
 
-### 🚀 What I Do
+### What I Do
 
-* 🧠 **AI & NLP** — Custom text-to-video, chatbot, and sentiment analysis systems using Python
-* ☁️ **Cloud Engineering** — Building on **Google Cloud (Cloud Run, Pub/Sub, Firestore, BigQuery)**
-* 🔐 **Security & Data** — Encryption, secure APIs, and integrations with OAuth & Apigee
-* 🗂 **Developer Tools** — JSON-based Firestore editors, backup scripts, and CI/CD pipelines ([https://fireweb.digiapps.com.co](https://fireweb.digiapps.com.co))
-* 🧩 **Frontend** — Modern interfaces with **Vue 3, Tailwind CSS, and TypeScript** ([https://www.digiapps.com.co](https://www.digiapps.com.co))
+* **AI & NLP** — Custom text-to-video, chatbot, and sentiment analysis systems using Python
+* **Cloud Engineering** — Building on **Google Cloud (Cloud Run, Pub/Sub, Firestore, BigQuery)**
+* **Security & Data** — Encryption, secure APIs, and integrations with OAuth & Apigee
+* **Developer Tools** — JSON-based Firestore editors, backup scripts, and CI/CD pipelines ([https://fireweb.digiapps.com.co](https://fireweb.digiapps.com.co))
+* **Frontend** — Modern interfaces with **Vue 3, Tailwind CSS, and TypeScript** ([https://www.digiapps.com.co](https://www.digiapps.com.co))
 
 ---
 
-### 🧱 My Ecosystem Projects
+### My Ecosystem Projects
 
 | Project                        | Description                                                 | Stack                    |
 | ------------------------------ | ----------------------------------------------------------- | ------------------------ |
@@ -24,38 +24,38 @@ I focus on **Go (Golang), Python, and Vue.js** — creating projects that combin
 
 ---
 
-### 💼 Tech Stack
+### Tech Stack
 
-#### 🧠 Languages
+#### Languages
 
 `Go` `Python` `JavaScript` `TypeScript` `SQL`
 
-#### 🧩 Frameworks & Tools
+#### Frameworks & Tools
 
 `Vue.js` `Tailwind CSS` `FastAPI` `Gin`
 
-#### ☁️ Cloud & DevOps
+#### Cloud & DevOps
 
 `Google Cloud Platform` `Cloud Run` `Pub/Sub` `Docker` `GitHub Actions`
 
-#### 🧰 Databases
+#### Databases
 
 `PostgreSQL` `Firestore` `MongoDB` `CockroachDB`
 
 ---
 
-### 🌍 Open to
+### Open to
 
 * Long-term opportunities to **relocate**
 * Technical roles in **backend, cloud engineering, or AI systems**
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
-* 🌐 [LinkedIn](https://www.linkedin.com/in/miguelarenascol/)
-* 💻 [GitHub](https://github.com/mxaxaxbx)
-* ✉️ Reach me: [mxaxaxbx@gmail.com](mailto:mxaxaxbx@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/miguelarenascol/)
+*  [GitHub](https://github.com/mxaxaxbx)
+*  Reach me: [mxaxaxbx@gmail.com](mailto:mxaxaxbx@gmail.com)
 
 ---
 
